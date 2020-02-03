@@ -1,0 +1,21 @@
+{
+  "name": "ts-jest-babel-7-project-wide-config-repro-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulrehkugler/ts-jest-babel-7-project-wide-config-repro-repo.git",
+  "author": "Paul Rehkugler <paul@tumblr.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest": "^25.1.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
